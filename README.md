@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I'm Fazliddin Kholikov <img src = "https://media.giphy.com/mediahvRJCLFzcasrR4ia7z/giphy.gif" width = "27px">
 
 <!--
 **fazliddin0506/fazliddin0506** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
