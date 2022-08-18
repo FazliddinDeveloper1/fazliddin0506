@@ -6,5 +6,5 @@
 ### Languages and tools I work with:
 
 <code><img src = "https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" width = "30px"><code>
-<code><img src = "https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width = "30px"><code>
+<code><img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1985px-Postgresql_elephant.svg.png" width = "30px"><code>
 <code><img src = "https://www.pngkey.com/png/full/466-4667821_postgres-logo.pngg" width = "30px"><code>
