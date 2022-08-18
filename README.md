@@ -6,5 +6,5 @@
 <code>
 <code><img src = "https://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png" width = "30px">
 <code>
-<code><img src = "https://assets.stickpng.com/images/584815fdcef1014c0b5e497a.png" width = "30px">
+<code><img src = "https://www.pngkey.com/png/full/466-4667821_postgres-logo.pngg" width = "30px">
 <code>
